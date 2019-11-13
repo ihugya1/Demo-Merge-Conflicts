@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Ian Hugya
+A simple demo, by Ian Hugya
